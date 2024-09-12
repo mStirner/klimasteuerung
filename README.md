@@ -2,5 +2,5 @@
 Auswertung von Reedkontakten an Fenstern zu Freigabe/Steuerung einer Klimaanlage.
 
 # Schaltplan
-![Schaltplan](./Klimasteuerung.png)
-<small>[Schaltplan](./Klimasteuerung.pdf) als PDF</small>
+![Schaltplan](./docs/Schaltplan.jpg)
+<small>[Schaltplan](./v2/Schaltplan.pdf) als PDF</small>
